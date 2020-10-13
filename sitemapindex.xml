@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.0.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.1.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.2.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.3.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.4.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.5.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.6.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.7.txt</loc></sitemap>
-<sitemap><loc>https://china-digital-times.github.io/index/sitemap.8.txt</loc></sitemap>
+<sitemap><loc>https://china-digital-times.github.io/index/sitemap.0.xml</loc></sitemap>
+<sitemap><loc>https://china-digital-times.github.io/index/sitemap.1.xml</loc></sitemap>
+<sitemap><loc>https://china-digital-times.github.io/index/sitemap.2.xml</loc></sitemap>
+<sitemap><loc>https://china-digital-times.github.io/index/sitemap.3.xml</loc></sitemap>
 </sitemapindex>
